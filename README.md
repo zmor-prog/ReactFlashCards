@@ -1,8 +1,8 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Spanish Food Words Flashcards*
 
 Submitted by: **Zamirah Morgan**
 
-This web app: **insert description**
+This web app: **Designed to learn the basics of spanish with foods you enjoy eating, or learn more about.**
 
 Time spent: **X** hours spent in total
 
